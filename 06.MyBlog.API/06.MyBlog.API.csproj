@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_06.MyBlog.API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01.MyBlog.Shared\01.MyBlog.Shared.csproj" />
+    <ProjectReference Include="..\02.MyBlog.Model\02.MyBlog.Model.csproj" />
+    <ProjectReference Include="..\05.MyBlog.Service\05.MyBlog.Service.csproj" />
+  </ItemGroup>
+
+</Project>

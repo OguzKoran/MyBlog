@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_05.MyBlog.Service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01.MyBlog.Shared\01.MyBlog.Shared.csproj" />
+    <ProjectReference Include="..\02.MyBlog.Model\02.MyBlog.Model.csproj" />
+    <ProjectReference Include="..\04.MyBlog.Data\04.MyBlog.Data.csproj" />
+  </ItemGroup>
+
+</Project>
