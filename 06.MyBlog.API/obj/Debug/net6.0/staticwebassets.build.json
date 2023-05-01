@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/i5DGa+FcGcauz0MgI/BKLCRBcPP+ModN605mEGnDE=",
+  "Hash": "U2nLyC1yQiZRGPqhtIUxJjRTrtEP1GbYvaGjXcFgnHA=",
   "Source": "06.MyBlog.API",
   "BasePath": "_content/06.MyBlog.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "06.MyBlog.API\\wwwroot",
       "Source": "06.MyBlog.API",
-      "ContentRoot": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\wwwroot\\",
       "BasePath": "_content/06.MyBlog.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\wwwroot\\null.jpg",
+      "Identity": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\wwwroot\\null.jpg",
       "SourceId": "06.MyBlog.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\wwwroot\\",
       "BasePath": "_content/06.MyBlog.API",
       "RelativePath": "null.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\null.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\wwwroot\\nullBanner.jpg",
+      "Identity": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\wwwroot\\nullBanner.jpg",
       "SourceId": "06.MyBlog.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\wwwroot\\",
       "BasePath": "_content/06.MyBlog.API",
       "RelativePath": "nullBanner.jpg",
       "AssetKind": "All",

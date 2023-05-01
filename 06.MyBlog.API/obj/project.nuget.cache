@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDPPv5HRdlMvuAabAxM3k0Ax59cmR87lws0+ghGzWCZCfJOu1/V9JlQCIL7MQGnCT+wnjJ4AGlTRIUO91Wk7bw==",
+  "dgSpecHash": "QiEAt0jwONE+dja1ey8kVshe8+5TE0T6FETeLG8Gi/Ftfe4KTZo4blEgFJbv5a7+rbVaz94wMEoQtrqvA5oeNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\06.MyBlog.API.csproj",
+  "projectFilePath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\06.MyBlog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ouz_x\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\Ouz_x\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

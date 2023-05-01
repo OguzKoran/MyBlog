@@ -2272,11 +2272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\06.MyBlog.API.csproj",
+      "projectUniqueName": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\06.MyBlog.API.csproj",
       "projectName": "06.MyBlog.API",
-      "projectPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\06.MyBlog.API.csproj",
+      "projectPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\06.MyBlog.API.csproj",
       "packagesPath": "C:\\Users\\Ouz_x\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\06.MyBlog.API\\obj\\",
+      "outputPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\06.MyBlog.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2297,14 +2297,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {
-              "projectPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj"
+            "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {
+              "projectPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj"
             },
-            "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\02.MyBlog.Model\\02.MyBlog.Model.csproj": {
-              "projectPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\02.MyBlog.Model\\02.MyBlog.Model.csproj"
+            "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\02.MyBlog.Model\\02.MyBlog.Model.csproj": {
+              "projectPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\02.MyBlog.Model\\02.MyBlog.Model.csproj"
             },
-            "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\05.MyBlog.Service\\05.MyBlog.Service.csproj": {
-              "projectPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\05.MyBlog.Service\\05.MyBlog.Service.csproj"
+            "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\05.MyBlog.Service\\05.MyBlog.Service.csproj": {
+              "projectPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\05.MyBlog.Service\\05.MyBlog.Service.csproj"
             }
           }
         }
@@ -2347,7 +2347,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

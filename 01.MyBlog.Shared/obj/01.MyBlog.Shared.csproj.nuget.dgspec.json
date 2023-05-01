@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {}
+    "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {
+    "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj",
         "projectName": "01.MyBlog.Shared",
-        "projectPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj",
+        "projectPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\01.MyBlog.Shared.csproj",
         "packagesPath": "C:\\Users\\Ouz_x\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ouz_x\\Desktop\\MyBlog2-master\\01.MyBlog.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Ouz_x\\Source\\Repos\\MyBlog2\\01.MyBlog.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
